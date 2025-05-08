@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyjain11
-- 👀 I’m interested in development of AI integrated into biomedical engineering pioneering advancements in the field of medicine. 
+- 👀 I’m interested in development of AI integrated into biomedical engineering pioneering advancements in the field of medicine. I am fond of machine learning and app development!
 - 🌱 I’m currently learning Python, JS, Java, and C++
 - 💞️ I’m looking to collaborate on AI research projects
 - 📫 Feel Free to email me at: mailshreyjain@gmail.com
